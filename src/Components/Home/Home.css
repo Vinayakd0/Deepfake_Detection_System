@@ -1,0 +1,31 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    position: relative;
+    top: 30vh;
+    width: 50vw;
+    padding: 2rem;
+    background: rgba(0, 0, 0, 0.6);
+    border-radius: 10px;
+    backdrop-filter: blur(5px);
+}
+
+.heading {
+    margin: 0;
+    font-size: 4vw;
+    color: white;
+}
+
+.highlight {
+    color: #16F7FA;
+    font-weight: bold;
+}
+
+.para {
+    color: rgb(180, 255, 180);
+    font-size: 1.5vw;
+    text-align: justify;
+    margin-top: 1rem;
+}
