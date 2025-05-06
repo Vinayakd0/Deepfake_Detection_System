@@ -16,17 +16,16 @@ This is a Deepfake Detection System built using a hybrid CNN-RNN model (ResNeXt 
 ## Installation
 
 To get started with the project, clone this repository to your local machine:
-
-
+```bash
+"git clone https://github.com/your-username/Deepfake_Detection_System.git"
+```
 ### Instructions for Model Paths and Drive Links
 
 Make sure the path mentioned for each model weight (`model/df_model.pt` and `Backend/weights/RealESRGAN_x4.pth`) aligns with the locations in your project.
 The links for the deepfake model df_model.pt is `https://drive.google.com/file/d/1Stu-Oc-YJTXtpn-Eb6TRphxTro5Decte/view?usp=sharing`
 and RealESRGAN model is `https://drive.google.com/file/d/1Stu-Oc-YJTXtpn-Eb6TRphxTro5Decte/view?usp=drive_link`
 
-Let me know if you need further customization!
-```bash
-"git clone https://github.com/your-username/Deepfake_Detection_System.git"
+
 
 
 
